@@ -103,9 +103,9 @@ uvicorn main:app --reload
 
 ![alt text](eto-photoshop-ili-realnoe-photo/image-1.png)
 
----
-
 ![alt text](eto-photoshop-ili-realnoe-photo/image-2.png)
+
+---
 
 ![alt text](eto-photoshop-ili-realnoe-photo/image-3.png)
 
