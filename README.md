@@ -1,6 +1,6 @@
 # Task Tracker API
 
-Это backend на FastAPI.
+Это backend на FastAPI. https://github.com/Desai0/ZZachet
 
 Весь проект был в одном файле `main.py`, потом разнес код по файлам
 
