@@ -35,5 +35,5 @@ def login(form_data: OAuth2PasswordRequestForm = Depends(), db: Session = Depend
 
 
 @auth_router.get("/me", response_model=UserOut)
-def me(current_user: User = Depends(get_current_user)):
+def me(current_user=Depends(get_current_user)):
     return current_user
